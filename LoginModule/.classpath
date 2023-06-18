@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Sele Web Server/selenium-server-4.8.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-api-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-api-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-chrome-driver-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-chrome-driver-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-chromium-driver-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-chromium-driver-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-devtools-v85-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-devtools-v85-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-devtools-v108-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-devtools-v108-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-devtools-v109-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-devtools-v109-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-devtools-v110-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-devtools-v110-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-edge-driver-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-edge-driver-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-firefox-driver-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-firefox-driver-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-http-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-http-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-ie-driver-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-ie-driver-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-java-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-java-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-json-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-json-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-manager-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-manager-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-remote-driver-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-remote-driver-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-safari-driver-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-safari-driver-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-support-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VelkumarPalanisamy/Selenium Webdriver/Webdriver/selenium-support-4.8.1-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
