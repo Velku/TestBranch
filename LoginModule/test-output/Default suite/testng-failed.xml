@@ -5,8 +5,6 @@
     <classes>
       <class name="com.HFS.LoginModule.Login">
         <methods>
-          <include name="setup"/>
-          <include name="browserlaunch"/>
           <include name="login"/>
         </methods>
       </class> <!-- com.HFS.LoginModule.Login -->

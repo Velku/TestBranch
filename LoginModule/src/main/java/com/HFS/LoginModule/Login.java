@@ -12,11 +12,10 @@ import org.testng.annotations.Test;
 public class Login {
 WebDriver driver;
 	
-	@BeforeSuite
+	@Test
 	public void setup() {
 		System.setProperty ("webdriver.driver.chrome", "C:\\Users\\VelkumarPalanisamy\\Sele Web Server.exe");
 		}
-	@BeforeClass
 	public void browserlaunch() throws InterruptedException {
 		org.openqa.selenium.chrome.ChromeOptions options = new org.openqa.selenium.chrome.ChromeOptions();
 		options.addArguments("--remote-allow-origins=*");

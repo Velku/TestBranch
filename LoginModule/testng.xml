@@ -4,7 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.HFS.LoginModule.Login"/>
-      <class name="com.HFS.LoginModule.NewTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
